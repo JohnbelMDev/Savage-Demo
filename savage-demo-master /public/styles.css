@@ -1,21 +1,29 @@
 body{
   background: pink;
+  background-image: url('https://i.pinimg.com/originals/dd/5a/e7/dd5ae76a11d4b813f99565fb51a3b270.jpg');
 }
 h3{
   margin-top: 40px;
   text-align: center;
+  color: white;
 
 }
 
 h1{
   text-align: center;
+  color: white;
+
 }
 h2{
   text-align: center;
+  color: white;
+
 }
 .message{
   text-align: center;
   list-style-type: none;
+  color: white;
+
 
 }
 form{
